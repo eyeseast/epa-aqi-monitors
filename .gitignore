@@ -15,3 +15,5 @@ build
 *.db-wal
 *.db-journal
 *.db-shm
+
+data/
